@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Sereg/CLionProjects/Network_Sort/Address.cpp
+Address.h
+/cygdrive/c/Users/Sereg/CLionProjects/Network_Sort/Address.h
+
+/cygdrive/c/Users/Sereg/CLionProjects/Network_Sort/Address.h
+
+/cygdrive/c/Users/Sereg/CLionProjects/Network_Sort/Network.cpp
+Network.h
+/cygdrive/c/Users/Sereg/CLionProjects/Network_Sort/Network.h
+
+/cygdrive/c/Users/Sereg/CLionProjects/Network_Sort/Network.h
+
+/cygdrive/c/Users/Sereg/CLionProjects/Network_Sort/main.cpp
+iostream
+-
+vector
+-
+sstream
+-
+bitset
+-
+Address.cpp
+/cygdrive/c/Users/Sereg/CLionProjects/Network_Sort/Address.cpp
+Network.cpp
+/cygdrive/c/Users/Sereg/CLionProjects/Network_Sort/Network.cpp
+test.cpp
+/cygdrive/c/Users/Sereg/CLionProjects/Network_Sort/test.cpp
+
+/cygdrive/c/Users/Sereg/CLionProjects/Network_Sort/test.cpp
+

@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Network_Sort.dir/main.cpp.o  -o Network_Sort.exe -Wl,--out-implib,libNetwork_Sort.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
